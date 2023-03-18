@@ -15,3 +15,5 @@ To work code you need sett token and meeting variables (in Program.cs file).
 
 ## ATTENTION:
 The code is in console mode (static and sync). To the best experience in API you can transform to async method.
+
+API reference: https://marketplace.zoom.us/docs/api-reference/introduction/
